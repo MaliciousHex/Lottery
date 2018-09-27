@@ -1,4 +1,4 @@
-# Udemy Course Solidity - Ethereum Smart Contract
+# Implementation Ethereum Smart Contract 
 
 ## How To Test
 ### Just npm install and npm run test 
